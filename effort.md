@@ -1,6 +1,4 @@
-# Effort
-
-### How much effort can you put in? How much of an impact do you want to have?
+# How much effort can you put in? How much of an impact do you want to have?
 
 Your answers to the two questions are probably strongly correlated. If you can dedicate a lot of time, you'll have a huge impact; likewise if you only have a little time. Here's a rubric for thinking about how much time you want to commit:
 
