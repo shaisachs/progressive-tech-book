@@ -1,6 +1,6 @@
 # Why you should get involved
 
-The progressive tech world is a pretty fascinating and at times even inspiring place to be.
+The progressive tech world is a pretty fascinating, and at times even inspiring place to be.
 
 It's likely that you're considering working in this field because there is a mission you care about. Indeed, whether there's a particular issue like climate change or education on your mind, or progressive change more broadly, this field can be enormously satisfying - sometimes surprisingly so. A little bit of technical skill can go a long way, and occasionally you'll discover that a simple script or a humble API call can save hundreds of hours or work, or can help thousands of people vote. That's a wonderful feeling, and when your efforts helped contribute to a margin of victory, it's all the more exciting.
 
