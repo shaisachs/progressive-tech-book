@@ -1,8 +1,10 @@
 # Why you should get involved
 
+If you have some technical skill and an inclination towards progressive politics, you should definitely consider volunteering some of your skills towards the progressive tech world.
+
 The progressive tech world is a pretty fascinating, and at times even inspiring place to be.
 
-It's likely that you're considering working in this field because there is a mission you care about. Indeed, whether there's a particular issue like climate change or education on your mind, or progressive change more broadly, this field can be enormously satisfying - sometimes surprisingly so. A little bit of technical skill can go a long way, and occasionally you'll discover that a simple script or a humble API call can save hundreds of hours or work, or can help thousands of people vote. That's a wonderful feeling, and when your efforts helped contribute to a margin of victory, it's all the more exciting.
+If there's an issue or candidate you care about, this field can be enormously satisfying way to contribute - sometimes surprisingly so. A little bit of technical skill can go a long way, and occasionally you'll discover that a simple script or a humble API call can save hundreds of hours or work, or can help thousands of people vote. That's a wonderful feeling, and when your efforts helped contribute to a margin of victory, it's all the more exciting.
 
 More than that, progressive tech offers you a unique chance to improve your technical skills, and to learn along new dimensions that probably do not come up very often in the for-profit world. Progressive tech tends to exist in a much more constrained world: there is usually less money to go around, and timelines are tighter than in the for-profit world. Working within those constraints makes you a better technologist. After all, it's easy enough to throw money at a technical problem until it goes away. What do you do when that's not an option? Or what do you do when a two-week delay in a project would not just annoy upper management - it could potentially cost you the election? Roughly speaking, your attitude towards technical debt becomes a great deal more mature, and you gain a deeper perspective for what it takes to improve a codebase and technical platform over a period of time.
 
