@@ -1,6 +1,8 @@
 # How to get involved in progressive tech
 
-It's a perfect time to build software for progressive causes. If you know how to build software, and you'd like to see our country and our world move in a more progressive direction - then this guide will show you how to do both at the same time. It's not just for programmers: anyone with good skills in social media, product management, design and usability, data science, devops, or IT can find something interesting to work on here. There is a huge ecosystem of technology which serves progressive causes, which we call progressive tech.
+Now is a perfect time to build software for progressive causes. If you know how to build software, and you'd like to see our country and our world move in a more progressive direction - then this guide will show you how to do both at the same time. It's not just for programmers: anyone with good skills in social media, product management, design and usability, data science, devops, or IT can find something interesting to work on here. There is a huge ecosystem of technology which serves progressive causes, which we call progressive tech.
+
+This guide is designed to help you navigate your way through the world of progressive tech. It's organized around some of the questions you'll want to ask yourself as you think about your involvement: why should you get involved? how much time can you devote? and so on. We wrap up with a series of next steps you should think about.
 
 ### About this guide
 
