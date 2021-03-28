@@ -7,4 +7,5 @@
 * [What you should know](what-you-should-know.md)
 * [When do you want to get involved?](when.md)
 * [Why you should get involved](why.md)
+* [Next steps](next-steps.md)
 
